@@ -1,0 +1,29 @@
+
+.imagecard{
+    height: 340px;
+    width: 580px;    
+}
+.card-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 4px;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin-bottom: 4px;
+}
+.username{
+    font-weight: bold;
+    font-size: 18px;
+}
+.icon-date-container{
+    display: flex;
+    justify-content: space-between;
+}
+.card-footer{
+    padding-left: 14px;
+    padding: 6px;
+}
+.likeShare{
+    padding-left: 20px;
+}
